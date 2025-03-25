@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityModelReferenceNested", "EntityModelReferenceNested\EntityModelReferenceNested.csproj", "{C61AF038-2CE4-4ED8-B0B4-549BA9BEED25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModel", "DataModel\DataModel.csproj", "{6FAC510F-2083-41F4-97C8-8760ECD5093F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C61AF038-2CE4-4ED8-B0B4-549BA9BEED25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C61AF038-2CE4-4ED8-B0B4-549BA9BEED25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C61AF038-2CE4-4ED8-B0B4-549BA9BEED25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FAC510F-2083-41F4-97C8-8760ECD5093F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FAC510F-2083-41F4-97C8-8760ECD5093F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FAC510F-2083-41F4-97C8-8760ECD5093F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FAC510F-2083-41F4-97C8-8760ECD5093F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
